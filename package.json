@@ -1,0 +1,23 @@
+{
+  "name": "typescript-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "magic": "webpack"
+  },
+  "author": "mahendra",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^16.3.16",
+    "@types/react-dom": "^16.0.6",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "ts-loader": "^4.3.1",
+    "webpack": "^4.11.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.0.2"
+  }
+}
